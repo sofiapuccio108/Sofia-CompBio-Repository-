@@ -2,7 +2,6 @@
 
 # this is a document describing vectors in R 
 # 22 January 26
-# Sof Antelo
 #----------------------------------------------
 #Start
 #assignment operator is <- 
