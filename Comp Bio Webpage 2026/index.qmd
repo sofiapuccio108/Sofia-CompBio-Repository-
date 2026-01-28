@@ -6,4 +6,6 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-So this will be homework 1! \[Homework 1\]Homework1.html)
+So this will be homework 1! [[Homework 1](Homework1.html)
+
+HW 3 Link [Link](Homework 3.html)
